@@ -1,0 +1,152 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-size: 70px;
+    
+}
+.font{
+    padding-top: 0px;
+    font-size: 40px;
+    margin: auto;
+}
+#mission-w-color{
+    color: rgb(255, 183, 0);
+}
+.section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: inherit;
+    font-size: 30px;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 10px 40px;
+    color:white;
+    border-radius: 5px;
+}
+.border{
+    border-left: 4px solid;
+    border-radius: 10px;
+    border-image:  linear-gradient(crimson, red);
+    border-image-slice: 1;   
+}
+.padding{
+    padding-top: 0%;
+}
+.align{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(47, 10, 90) ;
+}
+#third-div{
+    width: 50%;
+    text-align: left;
+    padding-right: 10%;
+}
+.div1{
+    background-color: rgb(230, 244, 248);
+    padding: 20px;
+    margin: 30px;
+    border-radius: 30px;
+}
+.div1 img{
+    width: 90%;
+}
+.div2{
+    background-color: rgb(245, 223, 243); 
+    padding: 20px;
+    margin: 30px;
+    border-radius: 30px;
+}
+.div2 img{
+    width: 90%;
+}
+.div3{
+    background-color: rgb(240, 230, 203);
+    padding: 20px;
+    margin: 30px;
+    border-radius: 30px;
+}
+.div3 img{
+    width: 90%;
+}
+div img{
+   width: 80%;
+   margin-left: 70px;
+}
+.job{
+    font-size: 20px;
+    margin-right: 10%;
+    margin-top: 80px;
+}
+.background{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: left;
+
+}
+.policy{
+    width: 50%;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-left: 10px;
+    padding-left: 50px;
+}
+.img{
+    width: 50%;
+}
+.background-2{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 130px;
+}
+.text-align{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 80px;
+}
+.img3{
+    width:50%;
+    padding-left: 200px;
+}
+.safe{
+    width: 50%;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-left: 60px;
+    margin-right: 80px;
+    padding-left: 200px;
+}
+.background-3{
+    background-image: url(images/shapes/shape-2.png);
+    background-size: 200px;
+    background-position: top 6px ;
+    background-repeat: no-repeat;
+}
+.final{
+    background-color: rgb(8, 8, 26);
+    padding:10px;
+    padding-bottom: 10px;
+    margin: 0px;
+    margin-left: 0px;
+}
+.footer{
+    font-size: 20px;
+    color: darkgray;
+    text-align: center;
+}
+.last{
+    font-size: 15px;
+    color: gray;
+    text-align: center;
+    padding-bottom: 15px;
+}
